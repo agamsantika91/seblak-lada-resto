@@ -2,7 +2,7 @@ resto-list {
   padding-top: 55px;
   width: 100%;
   display: grid;
-  gap: 16px;
+  gap: 50px;
 }
 
 .resto__item {
@@ -11,6 +11,7 @@ resto-list {
   overflow: hidden;
   position: relative;
   transition: box-shadow 0.3s ease;
+  margin: 5px;
 
   &:hover {
     box-shadow: 0 4px 8px 0 #00000033;
