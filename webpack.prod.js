@@ -65,13 +65,13 @@ module.exports = merge(common, {
       ios: true,
       icons: [
         {
-          src: path.resolve(__dirname, 'src/public/images/icons/logo.png'),
+          src: path.resolve(__dirname, 'src/public/icons/logo.png'),
           size: 180,
           destination: 'assets/icons',
           ios: true,
         },
         {
-          src: path.resolve(__dirname, 'src/public/images/icons/logo.png'),
+          src: path.resolve(__dirname, 'src/public/icons/logo.png'),
           sizes: [72, 96, 128, 192, 256, 384, 512],
           destination: 'assets/icons',
           purpose: 'any maskable',

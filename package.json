@@ -14,8 +14,8 @@
   "author": "Agam Santika>",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.14.0",
-    "@babel/preset-env": "^7.14.1",
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
     "@fortawesome/fontawesome-free": "^5.15.3",
     "@principalstudio/html-webpack-inject-preload": "^1.2.7",
     "babel-loader": "^8.2.2",
