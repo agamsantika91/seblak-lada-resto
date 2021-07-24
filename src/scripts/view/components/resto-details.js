@@ -83,7 +83,7 @@ class RestoDetails extends HTMLElement {
    * @param {boolean} isFavorited
    */
   set favButtonState(isFavorited) {
-    const icon = isFavorited ? 'x' : '+';
+    const icon = isFavorited ? '😍' : '😓';
     const label = isFavorited ?
       'Hapus restaurant ini dari daftar favorite Anda' :
       // eslint-disable-next-line max-len
