@@ -33,7 +33,7 @@ class RestoItem extends HTMLElement {
             data-src="${CONFIG.SMALL_BASE_IMAGE_URL}${pictureId}" 
             alt="Gambar restaurant ${name}">
           <p class="resto__rating">⭐ ${rating}</p>
-          <p class="resto__city">🏠 ${city}</p>
+          <p class="resto__city">🏣 ${city}</p>
         </div>
         <div class="resto__content">
           <a href="/#/detail/${id}"
