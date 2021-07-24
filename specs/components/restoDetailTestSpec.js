@@ -1,6 +1,6 @@
-import '../../src/scripts/view/components/_resto-info';
-import '../../src/scripts/view/components/_resto-review';
-import '../../src/scripts/view/components/_resto-details';
+import '../../src/scripts/view/components/resto-info';
+import '../../src/scripts/view/components/resto-review';
+import '../../src/scripts/view/components/resto-details';
 import dummyData from '../helper/dummy-data';
 
 describe('Resto Detail Element', () => {

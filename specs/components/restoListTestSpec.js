@@ -1,7 +1,7 @@
 /* eslint-disable max-len */
 import {getAllElement} from '../../src/scripts/helper';
-import '../../src/scripts/view/components/_resto-item';
-import '../../src/scripts/view/components/_resto-list';
+import '../../src/scripts/view/components/resto-item';
+import '../../src/scripts/view/components/resto-list';
 import dummyData from '../helper/dummy-data';
 
 describe('Resto List Element', () => {

@@ -5,8 +5,8 @@ import dummyData from '../helper/dummy-data';
 import RestoListPresenter from '../../src/scripts/presenter/resto-list';
 
 import '../../src/scripts/view/pages/home-page';
-import '../../src/scripts/view/components/_resto-list';
-import '../../src/scripts/view/components/_resto-item';
+import '../../src/scripts/view/components/resto-list';
+import '../../src/scripts/view/components/resto-item';
 
 
 describe('Resto List Presenter', () => {

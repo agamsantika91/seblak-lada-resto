@@ -1,5 +1,5 @@
 import {getAllElement} from '../../src/scripts/helper';
-import '../../src/scripts/view/components/_app-bar';
+import '../../src/scripts/view/components/app-bar';
 import dummyData from '../helper/dummy-data';
 
 describe('App-bar Element', () => {

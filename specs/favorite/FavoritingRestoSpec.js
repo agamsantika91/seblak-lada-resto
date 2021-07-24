@@ -3,9 +3,9 @@ import FavoriteRestoIdb from '../../src/scripts/data/favorite-resto-idb';
 import {getElement} from '../../src/scripts/helper';
 import dummyData from '../helper/dummy-data';
 
-import '../../src/scripts/view/components/_resto-details';
-import '../../src/scripts/view/components/_resto-info';
-import '../../src/scripts/view/components/_resto-review';
+import '../../src/scripts/view/components/resto-details';
+import '../../src/scripts/view/components/resto-info';
+import '../../src/scripts/view/components/resto-review';
 import '../../src/scripts/view/pages/detail-page';
 import {clearIdb} from '../helper/idb-helper';
 import {initRestoDetailPresenter} from '../helper/init-presenter';
